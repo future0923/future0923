@@ -10,5 +10,6 @@
 👋 &nbsp; I'm currently participating in some open-source projects and preparing for work. <br>
 👀 &nbsp; I'm interested in Java & c++. <br>
 
-<h3>👉🏻 Projet</h3>
-- [future0923/debug-tools](https://github.com/future0923/debug-tools) is a ✨ special ✨ repository.
+<h3>👉🏻 Project</h3>
+
+- [debug-tools](https://github.com/future0923/debug-tools) is a ✨ special ✨ repository.
