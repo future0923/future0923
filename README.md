@@ -21,8 +21,8 @@
 
 <h3>👉🏻 Project</h3>
 
-- [debug-tools](https://github.com/future0923/debug-tools) is a ✨ special ✨ repository.
+- [debug-tools](https://github.com/java-hot-deploy/debug-tools) is a ✨ special ✨ repository.
 
-<a href="https://github.com/future0923/debug-tools">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=future0923&repo=debug-tools&show_owner=true" />
+<a href="https://github.com/java-hot-deploy/debug-tools">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=java-hot-deploy&repo=debug-tools&show_owner=true" />
 </a>
